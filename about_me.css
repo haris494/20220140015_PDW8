@@ -1,0 +1,14 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+#about-photo {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+section {
+    text-align: left;
+    margin-top: 20px;
+}
